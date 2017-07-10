@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_night_material_blue">#05212d</color>
+    <color name="background_daytime_material_blue">#65dbd5</color>
+    <color name="color_white">@color/bright_foreground_material_dark</color>
+    <color name="drawer_color">#66000000</color>
+</resources>

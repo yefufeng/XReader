@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">易阅者</string>
+    <string name="title_activity_splash">易阅者</string>
+    <string name="text_main">首页</string>
+    <string name="text_global_settings">设置</string>
+    <string name="text_global_logout">退出</string>
+</resources>
