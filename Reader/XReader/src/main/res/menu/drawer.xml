@@ -8,6 +8,24 @@
             android:title="@string/text_main" />
 
         <item
+            android:id="@+id/drawer_Read"
+            android:icon="@drawable/reading_badge"
+            android:title="@string/text_global_read"
+            />
+
+        <item
+            android:id="@+id/drawer_Note"
+            android:icon="@drawable/notes_badge"
+            android:title="@string/text_global_notes"
+            />
+
+        <item
+            android:id="@+id/drawer_Plan"
+            android:icon="@drawable/routines_badge"
+            android:title="@string/text_global_plan"
+            />
+
+        <item
             android:id="@+id/drawer_settings"
             android:icon="@drawable/icon_settings"
             android:title="@string/text_global_settings" />
